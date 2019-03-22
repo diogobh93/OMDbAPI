@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
                 // Variável para receber o nome do filme digitado
                filmedigitado = campofilme.getText().toString();
 
-               // Verifique se a variável esta vazia ou preenchida
+               // Verifica se a variável esta vazia ou preenchida
                 if (filmedigitado.isEmpty()) {
 
                     campofilme.setError("Campo Vazio!");

@@ -1,4 +1,4 @@
-# OMDbAPI
+# Aplicativo OMDbAPI simples
 OmdbAPI HTTP RESTfull
 
 1) Gradle.app
@@ -24,3 +24,5 @@ OmdbAPI HTTP RESTfull
 * Utilizado a biblioteca Picasso para carregar a foto via url no ImageView.
 * Criado Bundle para a recuperação dos dados enviado na transação de tela via intent.
 * Verificação simples se há url de imagem recuperada da API Omdb, caso seja "N/A" será inserida uma imagem com a informação sem foto.
+
+# Imagens

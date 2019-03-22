@@ -4,13 +4,11 @@ OmdbAPI HTTP RESTfull
 1) Gradle.app
 
 * Inserida em dependencies as bibliotecas:
-implementation 'com.android.volley:volley:1.1.1'
-implementation 'com.squareup.picasso:picasso:2.71828'
+* implementation 'com.android.volley:volley:1.1.1'
+* implementation 'com.squareup.picasso:picasso:2.71828'
 
 2) AndroidManifest.xml
-* Adicionado as permissões abaixo para que seja possível operações de rede.
-<uses-permission android:name="android.permission.INTERNET"/>
-<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+* Adicionado permissões para que seja possível operações de rede.
 
 3) Tela MainActivity
 

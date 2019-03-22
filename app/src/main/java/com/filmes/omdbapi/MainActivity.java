@@ -94,7 +94,7 @@ public class MainActivity extends AppCompatActivity {
                                             intent.putExtra("DiretoresFilme", diretores );
                                             intent.putExtra("SinopseFilme", sinopse );
 
-                                            // Vai para a tela
+                                            // Vai para a tela de Filmes
                                             startActivity(intent);
 
                                         } else {
